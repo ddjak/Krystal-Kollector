@@ -1,0 +1,42 @@
+.row {
+	padding: 20px;
+}
+
+.panel-title {
+	text-align:center;
+}
+
+p {
+	text-align:center;
+}
+
+.panel-body {
+	padding:30px;
+}
+
+body {
+	background: url("../images/shinedotted.png");
+	background-repeat: repeat;
+}
+
+.crystal-img {
+	margin:20px;
+	padding:3px;
+	background-color:black;
+	border-radius:10px;
+}
+
+.crystal-2 {
+	filter: hue-rotate(180deg);
+}
+
+.crystal-3 {
+	filter: hue-rotate(90deg);
+}
+
+.crystal-4 {
+	filter: hue-rotate(30deg);
+}
+
+.panel-heading {
+}
